@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">Cybersecurity Analyst · Blue Teamer · Python Programmer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SOC+Analyst+in+the+making;Threat+Hunting+%7C+Detection+Engineering;SIEM+%7C+Sentinel+%7C+Splunk+%7C+Wazuh;Melbourne%2C+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
+  <img src="assets/hero.svg" width="100%" alt="Anmol — Cybersecurity Analyst · Blue Teamer · Python Programmer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF9C&height=180&section=header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&height=42&lines=SOC+Analyst+in+the+making;Threat+Hunting+%7C+Detection+Engineering;SIEM+%7C+Sentinel+%7C+Splunk+%7C+Wazuh;Blue+team+mindset%2C+red+team+curiosity" alt="What I do" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmoldarve"><img src="https://img.shields.io/badge/LinkedIn-anmoldarve-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117" /></a>
+  <a href="mailto:anmoldarve@gmail.com"><img src="https://img.shields.io/badge/Email-anmoldarve-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/Melbourne-Australia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF9C&labelColor=0D1117" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🛡️ About Me
 
@@ -19,28 +22,50 @@
 - 🧪 Completed a **penetration testing internship** working in Django/AWS environments
 - 🐍 I build security tools in Python — scanners, enumerators, crawlers
 - 🔍 I believe the best defenders think like attackers
-- 📍 Based in Melbourne, Australia
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🧰 Tech & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/KQL-3970E4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sysmon-4B4B4B?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+**Detection & SIEM**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Wazuh-0D1117?style=for-the-badge&logo=wazuh&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-0D1117?style=for-the-badge&logo=elastic&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/KQL-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Sysmon-0D1117?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0D1117" />
 </p>
 
----
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0D1117?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF9C&labelColor=0D1117" />
+</p>
+
+**Analysis & Offensive**
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0D1117?style=for-the-badge&logo=target&logoColor=00FF9C&labelColor=0D1117" />
+</p>
+
+**Code**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C&labelColor=0D1117" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ⭐ Featured Projects
 
@@ -65,7 +90,10 @@
 | 🧠 [ai-soc-triage-agent](https://github.com/anmoldarve/ai-soc-triage-agent) | Live tshark traffic monitor feeding an LLM triage agent that returns classification, MITRE ATT&CK mapping and next actions | `Python` `Airia` `LLM` |
 | 🎯 [penligent-ai-pentesting-lab](https://github.com/anmoldarve/penligent-ai-pentesting-lab) | AI-assisted web app pentest against DVWA — recon pipeline, task tree, SQLi phase, exported report | `Kali` `DVWA` |
 
-#### 🏢 Infrastructure & Defence
+<details>
+<summary><b>🏢 Infrastructure & Defence</b> — AD, WAF and network labs</summary>
+
+<br>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -73,7 +101,12 @@
 | 🧱 [safeline-waf-lab](https://github.com/anmoldarve/safeline-waf-lab) | SafeLine WAF placed in front of DVWA as a reverse proxy — SSL, app onboarding, live SQLi block test, rate limiting | `SafeLine` `DVWA` |
 | 🌐 [Packet-Tracer-Lab](https://github.com/anmoldarve/Packet-Tracer-Lab) | Network design and configuration labs in Cisco Packet Tracer | `Cisco` |
 
-#### 🐍 Python Security Tools
+</details>
+
+<details>
+<summary><b>🐍 Python Security Tools</b> — scanners, enumerators, crawlers</summary>
+
+<br>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -83,15 +116,10 @@
 | 🌐 [dns_enumerator](https://github.com/anmoldarve/dns_enumerator-main) | DNS recon tool pulling A, MX, NS and CNAME records | `Python` |
 | 🕷️ [webcrawler](https://github.com/anmoldarve/webcrawler-main) | BFS web crawler with HTTP metadata extraction | `Python` |
 
----
+</details>
 
-### 📫 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anmoldarve"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anmoldarve@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=000000" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
