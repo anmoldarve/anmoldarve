@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" width="100%" alt="Anmol — Cybersecurity Analyst · Blue Teamer · Python Programmer" />
+  <img src="hero.svg" width="100%" alt="Anmol Darve — Cybersecurity Analyst · Blue Teamer · Python Programmer" />
 </p>
 
 <p align="center">
