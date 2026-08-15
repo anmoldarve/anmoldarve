@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anmoldarve"><img src="https://img.shields.io/badge/LinkedIn-anmoldarve-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117" /></a>
-  <a href="mailto:anmoldarve@gmail.com"><img src="https://img.shields.io/badge/Email-anmoldarve-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117" /></a>
-  <img src="https://img.shields.io/badge/Melbourne-Australia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF9C&labelColor=0D1117" />
+  <a href="https://www.linkedin.com/in/anmoldarve"><img src="https://img.shields.io/badge/LinkedIn-anmoldarve-13242B?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0B1417" /></a>
+  <a href="mailto:anmoldarve@gmail.com"><img src="https://img.shields.io/badge/Email-anmoldarve-13242B?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0B1417" /></a>
+  <img src="https://img.shields.io/badge/Melbourne-Australia-13242B?style=for-the-badge&logo=googlemaps&logoColor=00FF9C&labelColor=0B1417" />
 </p>
 
 <img src="divider.svg" width="100%" alt="" />
@@ -30,39 +30,39 @@
 **Detection & SIEM**
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Wazuh-0D1117?style=for-the-badge&logo=wazuh&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-0D1117?style=for-the-badge&logo=elastic&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/KQL-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Sysmon-0D1117?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-13242B?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Splunk-13242B?style=for-the-badge&logo=splunk&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Wazuh-13242B?style=for-the-badge&logo=wazuh&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-13242B?style=for-the-badge&logo=elastic&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/KQL-13242B?style=for-the-badge&logo=microsoft&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Sysmon-13242B?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0B1417" />
 </p>
 
 **Cloud & Infrastructure**
 
 <p>
-  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0D1117?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Azure-13242B?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Windows%20Server-13242B?style=for-the-badge&logo=windows&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Linux-13242B?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Cisco-13242B?style=for-the-badge&logo=cisco&logoColor=00FF9C&labelColor=0B1417" />
 </p>
 
 **Analysis & Offensive**
 
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0D1117?style=for-the-badge&logo=target&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Wireshark-13242B?style=for-the-badge&logo=wireshark&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Nmap-13242B?style=for-the-badge&logo=nmap&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-13242B?style=for-the-badge&logo=kalilinux&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-13242B?style=for-the-badge&logo=target&logoColor=00FF9C&labelColor=0B1417" />
 </p>
 
 **Code**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-13242B?style=for-the-badge&logo=python&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/PowerShell-13242B?style=for-the-badge&logo=powershell&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/Bash-13242B?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=0B1417" />
+  <img src="https://img.shields.io/badge/HTML5-13242B?style=for-the-badge&logo=html5&logoColor=00FF9C&labelColor=0B1417" />
 </p>
 
 <img src="divider.svg" width="100%" alt="" />
