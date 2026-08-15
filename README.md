@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Anmol — Cybersecurity Analyst · Blue Teamer · Python Programmer" />
+  <img src="hero.svg" width="100%" alt="Anmol — Cybersecurity Analyst · Blue Teamer · Python Programmer" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Melbourne-Australia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF9C&labelColor=0D1117" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### 🛡️ About Me
 
@@ -23,7 +23,7 @@
 - 🐍 I build security tools in Python — scanners, enumerators, crawlers
 - 🔍 I believe the best defenders think like attackers
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### 🧰 Tech & Tools
 
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C&labelColor=0D1117" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### ⭐ Featured Projects
 
@@ -118,8 +118,8 @@
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+  <img src="footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
